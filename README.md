@@ -1,5 +1,6 @@
 # STOCK_PREDICTION
-INTRODUCTION
+INTRODUCTION
+   
    Predicting how the stock market will perform is one of the most difficult tasks to do. There are so many factors involved in the prediction; physical vs. physiological, rational and irrational behavior, etc. All these aspects combined makes share prices volatile and very difficult to predict, with a high degree of accuracy. 
 Broadly, stock market analysis is divided into two parts – Fundamental and Technical Analysis.
 Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance visualizations, as well as prediction.
